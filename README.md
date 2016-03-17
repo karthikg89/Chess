@@ -3,6 +3,7 @@ This is an online chess board that I wrote for fun. It is hosted [here](http://c
 
 ## To Do
 - [ ] Add En Passant
+- [ ] Add castling
 - [ ] Prevent illegal moves
 - [ ] Allow click and drag
 
